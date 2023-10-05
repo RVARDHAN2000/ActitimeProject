@@ -8,3 +8,4 @@ ActiTIME is web based software for time tracking and management. It helps to imp
 * This Hybrid framework includes the Data Driven Testing (DDT) , Method Driven testig and Modular Driven Frameworks.
 * Where after identifying generated three packages (i,e generic, pom ,testscript packages ) which is shared in actitime file .
 * Executed the script TestNG report is been generated .
+ 
